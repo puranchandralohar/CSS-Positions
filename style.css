@@ -164,3 +164,32 @@ nav .active {
 .box3{
   flex:3;
 }
+.wrap2{
+  width:80%;
+  margin:50px auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fixed{
+  position: fixed;
+  right:0px;
+  bottom:100px;
+  padding: 10px;
+  border:none;
+  background-color: olive;
+  color:#fff;
+  border-radius: 10px 0 0 10px;
+}
+
+footer{
+  padding: 40px 0;
+  background-color:palevioletred;
+  align-items: center;
+  justify-content: center;
+  color:#fff;
+}
+footer i{
+  margin-right: 25px;
+  font-size: 30px;
+}
